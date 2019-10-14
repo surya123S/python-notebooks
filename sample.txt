@@ -1,4 +1,1 @@
-India is my Country
-this is my day
-sunday is holiday
-rgm engineering college
+SNO    NAME    BRANCH     MOBILE
